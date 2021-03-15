@@ -1,8 +1,9 @@
 # Awesome Clone
 
+
 ### A curated list of AWESOME clones
 
-[![Awesome Badges](https://img.shields.io/badge/badges-awesome-green.svg)](https://github.com/MasterBrian99/Awesome-Clone)
+[![Awesome Badges](https://img.shields.io/badge/badges-awesome-green.svg)](https://github.com/MasterBrian99/Awesome-Clone) [![Awesome](https://awesome.re/badge.svg)](https://awesome.re) [![Mentioned in Awesome Clone](https://awesome.re/mentioned-badge-flat.svg)](https://github.com/MasterBrian99/Awesome-Clone)
 
 ## Table of Contents
 
