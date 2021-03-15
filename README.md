@@ -2,7 +2,7 @@
 
 ### A curated list of AWESOME clones
 
-[![Awesome Badges](https://img.shields.io/badge/badges-awesome-green.svg)](https://github.com/Naereen/badges)
+[![Awesome Badges](https://img.shields.io/badge/badges-awesome-green.svg)](https://github.com/MasterBrian99/Awesome-Clone)
 
 ## Table of Contents
 
