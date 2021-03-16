@@ -182,7 +182,7 @@
 
 - ## why my project not on the list ?
 
-  these are the best results on the github.don't worry if your project not on the list.read the contributions guildlines first, fork this repo and make an pull request ?
+  these are the best results on the github.don't worry if your project not on the list.read the contributions guidelines first, fork this repo and make an pull request.
 
 - ## found something useless on the list ?
 
@@ -192,9 +192,6 @@
 
   pull requests are always welcome.double check your changes before make a pull request.
 
-- ## why i created this ?
-
-  this repo is heavily inspired by [Clone-Wars](https://github.com/GorvGoyl/Clone-Wars). i wanted all in one package.vue,react,svelte and all frameworks.i'll keep updating this with community helps.
 
 ## Contributions
 
