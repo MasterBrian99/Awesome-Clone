@@ -1,14 +1,14 @@
-# Awesome Clone
-
-### A curated list of AWESOME clones
+# Awesome-Clone
 
 [![Awesome Badges](https://img.shields.io/badge/badges-awesome-green.svg)](https://github.com/MasterBrian99/Awesome-Clone) [![Awesome](https://awesome.re/badge.svg)](https://awesome.re) [![Mentioned in Awesome React](https://awesome.re/mentioned-badge-flat.svg)](https://github.com/MasterBrian99/Awesome-Clone)
+
+### A curated list of AWESOME clones
 
 ## Table of Contents
 
 - [React](#react)
 
-  - [Youtube Clone](#react-youtube)
+  - [YouTube Clone](#react-youtube)
   - [Netflix Clone](#react-netflix)
   - [Amazon Clone](#react-amazon)
   - [Facebook Clone](#react-facebook)
@@ -18,12 +18,12 @@
   - [IMDB Clone](#react-imdb)
 
 - [Vue](#vue)
-  - [Youtube Clone](#vue-youtube)
+  - [YouTube Clone](#vue-youtube)
   - [Twitter Clone](#vue-twitter)
 - [Resources](#resources)
 
   - [Website](#resources-websites)
-  - [Youtube](#resources-youtube)
+  - [YouTube](#resources-youtube)
 
 - [Learn React](#learn-react)
 - [FAQ](#faq)
@@ -31,7 +31,7 @@
 
 ## React
 
-### React Youtube
+### React YouTube
 
 [Back To Top ↑](#table-of-contents)
 
@@ -134,7 +134,7 @@
 
 ## Vue
 
-### vue youtube
+### vue YouTube
 
 [Back To Top ↑](#table-of-contents)
 
@@ -165,7 +165,7 @@
 - [How to Build a YouTube Clone with React - https://www.freecodecamp.org](https://www.freecodecamp.org/news/build-youtube-with-react/)
 - [Build Dev.to Clone in ReactJS](https://dev.to/codebucks/build-dev-to-clone-in-reactjs-2hm1)
 
-### Resources Youtube
+### Resources YouTube
 
 [Back To Top ↑](#table-of-contents)
 
