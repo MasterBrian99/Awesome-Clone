@@ -16,6 +16,7 @@
   - [Aribnb Clone](#react-airbnb)
   - [Discord Clone](#react-discord)
   - [IMDB Clone](#react-imdb)
+  - [Dev.to Clone](#react-dev)
 
 - [Vue](#vue)
   - [YouTube Clone](#vue-youtube)
@@ -132,6 +133,18 @@
 | ----------------------------------------- | ----------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------ | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | [vasurajan](https://github.com/vasurajan) | [IMDB-clone-react-redux](https://github.com/vasurajan/IMDB-clone-react-redux) | [https://movieapp-react-redux.vasurajan.com/](https://movieapp-react-redux.vasurajan.com/) | [![GitHub stars](https://img.shields.io/github/stars/vasurajan/IMDB-clone-react-redux.svg?style=social&label=Star&maxAge=2592000)](https://github.com/vasurajan/IMDB-clone-react-redux) |
 
+---
+
+### React Dev
+
+[Back To Top ↑](#table-of-contents)
+
+| Repository owner                              | Repository                                                | Live Link                                                                                | Stars                                                                                                                                                                 |
+| --------------------------------------------- | --------------------------------------------------------- | ---------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| [codebucks27](https://github.com/codebucks27) | [devto-clone](https://github.com/codebucks27/devto-clone) | [http://devto-clone-codebucks27.vercel.app/](http://devto-clone-codebucks27.vercel.app/) | [![GitHub stars](https://img.shields.io/github/stars/codebucks27/devto-clone.svg?style=social&label=Star&maxAge=2592000)](https://github.com/codebucks27/devto-clone) |
+
+---
+
 ## Vue
 
 ### vue YouTube
@@ -191,7 +204,6 @@
 - ## i want to contribute ?
 
   pull requests are always welcome.double check your changes before make a pull request.
-
 
 ## Contributions
 
