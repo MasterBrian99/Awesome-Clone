@@ -13,6 +13,7 @@
   - [Amazon Clone](#react-amazon)
   - [Facebook Clone](#react-facebook)
   - [Twitter Clone](#react-twitter)
+  - [Todoist Clone](#react-todoist)
   - [Aribnb Clone](#react-airbnb)
   - [Discord Clone](#react-discord)
   - [IMDB Clone](#react-imdb)
@@ -93,6 +94,15 @@
 | [jalbertsr](https://github.com/jalbertsr)             | [react-twitter-clone](https://github.com/jalbertsr/react-twitter-clone)               | [https://github-twitter-41292.firebaseapp.com/](https://github-twitter-41292.firebaseapp.com/) | [![GitHub stars](https://img.shields.io/github/stars/jalbertsr/react-twitter-clone.svg?style=social&label=Star&maxAge=2592000)](https://github.com/jalbertsr/react-twitter-clone)                     |
 | [rafaelalmeidatk](https://github.com/rafaelalmeidatk) | [twitter-fullstack-clone](https://github.com/rafaelalmeidatk/twitter-fullstack-clone) | [https://twitter.rafaelalmeidatk.now.sh/](https://twitter.rafaelalmeidatk.now.sh/)             | [![GitHub stars](https://img.shields.io/github/stars/rafaelalmeidatk/twitter-fullstack-clone.svg?style=social&label=Star&maxAge=2592000)](https://github.com/rafaelalmeidatk/twitter-fullstack-clone) |
 | [eltonlazzarin](https://github.com/eltonlazzarin)     | [twitter-clone-reactjs](https://github.com/eltonlazzarin/twitter-clone-reactjs)       |                                                                                                | [![GitHub stars](https://img.shields.io/github/stars/eltonlazzarin/twitter-clone-reactjs.svg?style=social&label=Star&maxAge=2592000)](https://github.com/eltonlazzarin/twitter-clone-reactjs)         |
+
+---
+### React Todoist
+
+[Back To Top ↑](#table-of-contents)
+
+| Repository owner                                      | Repository                                                                            | Live Link                                                                                      | Stars                                                                                                                                                                                                 |
+| ----------------------------------------------------- | ------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| [karlhadwen](https://github.com/karlhadwen)             | [todoist](https://github.com/karlhadwen/todoist)               |  | [![GitHub stars](https://img.shields.io/github/stars/karlhadwen/todoist.svg?style=social&label=Star&maxAge=2592000)](https://github.com/karlhadwen/todoist)                     |
 
 ---
 
