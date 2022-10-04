@@ -18,6 +18,7 @@
   - [Discord Clone](#react-discord)
   - [IMDB Clone](#react-imdb)
   - [Dev.to Clone](#react-dev)
+  - [Reddit Clone](#react-reddit)
   
 - [React Native](#react-native)
   - [Spotify Clone](#react-dev)
@@ -154,6 +155,16 @@
 | Repository owner                              | Repository                                                | Live Link                                                                                | Stars                                                                                                                                                                 |
 | --------------------------------------------- | --------------------------------------------------------- | ---------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | [codebucks27](https://github.com/codebucks27) | [devto-clone](https://github.com/codebucks27/devto-clone) | [http://devto-clone-codebucks27.vercel.app/](http://devto-clone-codebucks27.vercel.app/) | [![GitHub stars](https://img.shields.io/github/stars/codebucks27/devto-clone.svg?style=social&label=Star&maxAge=2592000)](https://github.com/codebucks27/devto-clone) |
+
+---
+
+### React Reddit
+
+[Back To Top ↑](#table-of-contents)
+
+| Repository owner                              | Repository                                                | Live Link                                                                                | Stars                                                                                                                                                                 |
+| --------------------------------------------- | --------------------------------------------------------- | ---------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| [tacticaltofu](https://github.com/tacticaltofu) | [reddit-clone](https://github.com/tacticaltofu/reddit-clone) | [https://weddit.netlify.app/](https://weddit.netlify.app/) | [![GitHub stars](https://img.shields.io/github/stars/tacticaltofu/reddit-clone.svg?style=social&label=Star&maxAge=2592000)](https://github.com/tacticaltofu/reddit-clone) |
 
 ---
 ## React Native
