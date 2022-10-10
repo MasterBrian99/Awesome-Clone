@@ -20,6 +20,7 @@
   - [Dev.to Clone](#react-dev)
   - [Reddit Clone](#react-reddit)
   - [Google Drive Clone](#react-google-drive)
+  - [Jira Clone](#react-jira)
   
 - [React Native](#react-native)
   - [Spotify Clone](#react-dev)
@@ -176,6 +177,15 @@
 | Repository owner                              | Repository                                                | Live Link                                                                                | Stars                                                                                                                                                                 |
 | --------------------------------------------- | --------------------------------------------------------- | ---------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | [subnub](https://github.com/subnub) | [myDrive](https://github.com/subnub/myDrive) | [https://mydrive-storage.com/](https://mydrive-storage.com/) | [![GitHub stars](https://img.shields.io/github/stars/subnub/myDrive.svg?style=social&label=Star&maxAge=2592000)](https://mydrive-storage.com/) |
+
+---
+### React Jira
+
+[Back To Top ↑](#table-of-contents)
+
+| Repository owner                              | Repository                                                | Live Link                                                                                | Stars                                                                                                                                                                 |
+| --------------------------------------------- | --------------------------------------------------------- | ---------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| [oldboyxx](https://github.com/oldboyxx) | [jira_clone](https://github.com/oldboyxx/jira_clone) | [https://jira.ivorreic.com/](https://jira.ivorreic.com/) | [![GitHub stars](https://img.shields.io/github/stars/oldboyxx/jira_clone.svg?style=social&label=Star&maxAge=2592000)](https://github.com/oldboyxx/jira_clone) |
 
 ---
 ## React Native
