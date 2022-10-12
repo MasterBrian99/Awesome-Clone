@@ -122,6 +122,7 @@
 | [Shakib448](https://github.com/Shakib448)         | [react-airbnb-clone](https://github.com/Shakib448/react-airbnb-clone)                       | [https://airbnb-clone-d9325.firebaseapp.com/](https://airbnb-clone-d9325.firebaseapp.com/) | [![GitHub stars](https://img.shields.io/github/stars/Shakib448/react-airbnb-clone.svg?style=social&label=Star&maxAge=2592000)](https://github.com/Shakib448/react-airbnb-clone)                     |
 | [selam-weldu](https://github.com/selam-weldu)     | [airbnb_clone](https://github.com/selam-weldu/airbnb_clone)                                 | [http://waterbnbb.herokuapp.com/](http://waterbnbb.herokuapp.com/)                         | [![GitHub stars](https://img.shields.io/github/stars/selam-weldu/airbnb_clone.svg?style=social&label=Star&maxAge=2592000)](https://github.com/selam-weldu/airbnb_clone)                             |
 | [VistritPandey](https://github.com/VistritPandey) | [Airbnb-Clone](https://github.com/VistritPandey/Airbnb-Clone)                               | [https://vistrit-airbnb.web.app/](https://vistrit-airbnb.web.app/)                         | [![GitHub stars](https://img.shields.io/github/stars/VistritPandey/Airbnb-Clone.svg?style=social&label=Star&maxAge=2592000)](https://github.com/VistritPandey/Airbnb-Clone)                         |
+| [sashitaghimire](https://github.com/sashitaghimire)             | [Airbnb_clone](https://github.com/sashitaghimire/Airbnb_Clone)   | [https://airbnb-clone-d5975.web.app/](https://airbnb-clone-d5975.web.app/)  |
 
 ---
 
